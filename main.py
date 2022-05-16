@@ -11,7 +11,6 @@ import tkinter as tk
 from tkinter.font import NORMAL
 from tkinter.ttk import Combobox, Spinbox, Button
 from tkinter import DISABLED, Toplevel, StringVar, Label, Frame
-from threading import Thread
 import configparser
 import mobd_client
 
